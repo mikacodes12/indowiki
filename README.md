@@ -1,10 +1,11 @@
 # indowiki
-This is a wiki for an indigenous knowledge and wisdom
 -------------------------------------------------------
 ### Lets retain our indiginious knowledge and wisdom
 ---------------------------------------------------
 Overview  / Back ground 
 
-[ ]  **What is Indiginious**
-[ ]  **Why indiginious**
-[ ]  **Main Catagories**
+- [ ] **What is Indiginious**
+- [ ] **Why indiginious**
+- [ ] **Main Catagories**
+
+<-- more detailed info will follow soon -->
