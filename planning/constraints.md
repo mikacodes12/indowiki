@@ -1,5 +1,5 @@
 # Constraints
-==================================================================================
+--------------------------------------------------------------------------------
 
 some of the boundries of this project
 As any other project this project has its own limitations and scope.
@@ -12,3 +12,4 @@ As any other project this project has its own limitations and scope.
 ## External 
 - * The extrem size of the project
 - * The nature of the project demands collaboration with huge international organizations 
+
